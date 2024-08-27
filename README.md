@@ -19,5 +19,3 @@ If you find our work useful for your research, please cite our work:
   pages={},
   year={2024}
 }
-
-
