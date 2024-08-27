@@ -6,7 +6,7 @@ Kaile Du, Yifan Zhou, Fan Lyu, Yuyang Li, Chen Lu, and Guangcan Liu
 The 18th European Conference on Computer Vision ECCV 2024  
 The code is coming soon.
 ## Citation 
-If you find our work useful for your research, please cite our work:
+If you find our work useful for your research, please cite our work:  
 ```
 @inproceedings{du2024confidence,
   title={Confidence Self-Calibration for Multi-Label Class-Incremental Learning},
