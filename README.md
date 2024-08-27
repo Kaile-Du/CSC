@@ -8,7 +8,7 @@ Kaile Du, Yifan Zhou, Fan Lyu, Yuyang Li, Chen Lu, and Guangcan Liu
 
 The 18th European Conference on Computer Vision ECCV 2024
 
-The codes are coming soon.
+The code is coming soon.
 ## Citaion 
 If you found our work useful for your research, please cite our work:
 
