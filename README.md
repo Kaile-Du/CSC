@@ -12,6 +12,6 @@ If you find our work useful for your research, please cite our work:
   title={Confidence Self-Calibration for Multi-Label Class-Incremental Learning},
   author={Du, Kaile and Zhou, Yifan and Lyu, Fan and Li, Yuyang and Lu, Chen and Liu, Guangcan},
   booktitle={Proceedings of the European Conference on Computer Vision},
-  pages={},
+  pages={234--252},
   year={2024}
 }
